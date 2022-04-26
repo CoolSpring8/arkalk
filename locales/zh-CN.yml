@@ -1,0 +1,11 @@
+button:
+  about: 关于
+  back: 返回
+  go: 确定
+  home: 首页
+  toggle_dark: 切换深色模式
+  toggle_langs: 切换语言
+  help: 使用帮助
+intro:
+  desc: 明日方舟公开招募计算器（Ark Calc）
+not-found: 未找到页面

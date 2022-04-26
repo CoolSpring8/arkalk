@@ -1,0 +1,11 @@
+button:
+  about: About
+  back: Back
+  go: GO
+  home: Home
+  toggle_dark: Toggle dark mode
+  toggle_langs: Change languages
+  help: Help
+intro:
+  desc: Arknights Recruitment Calculator (Ark Calc)
+not-found: Not found
